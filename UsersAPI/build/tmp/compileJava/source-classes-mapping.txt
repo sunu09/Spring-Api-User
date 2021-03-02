@@ -1,0 +1,9 @@
+com/tts/UsersAPI/model/User.java
+ com.tts.UsersAPI.model.User
+ com.tts.UsersAPI.model.User$UserBuilder
+com/tts/UsersAPI/UsersApiApplication.java
+ com.tts.UsersAPI.UsersApiApplication
+com/tts/UsersAPI/repository/UserRepository.java
+ com.tts.UsersAPI.repository.UserRepository
+com/tts/UsersAPI/controller/UserController.java
+ com.tts.UsersAPI.controller.UserController
